@@ -6,5 +6,5 @@ public enum StatusDoPedido {
 	PAGO,
 	ENVIADO,
 	ENTREGUE,
-	CANCELADO;
+	CANCELADO
 }
